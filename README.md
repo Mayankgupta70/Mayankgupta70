@@ -75,9 +75,7 @@ An interactive browser game with score tracking and timer functionality.
 🔗 Live Demo: (https://bubble-game-inky-omega.vercel.app/)
 
 💻 Source Code: (https://github.com/Mayankgupta70/Bubble-Game)
-- LinkedIn: https://linkedin.com/in/your-profile
-- GitHub: https://github.com/yourusername
-- Portfolio: https://yourportfolio.com
+
 
 ---
 
